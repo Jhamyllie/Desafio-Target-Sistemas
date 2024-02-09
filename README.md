@@ -47,8 +47,3 @@ IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
-<br><br>
-
-
-
-# ATENÇÃO: Ainda estou desenvolvendo os outros desafios. Enviei o link imediatamente para evitar problemas, caso a internet ou energia caia, por causa da chuva.
